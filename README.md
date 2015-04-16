@@ -4,7 +4,7 @@ Better Live Routings is a Max patch that performs a simple task: route *all* dat
 
 ## Why Would I Need This?
 
-There are many reasons why you might need this, but this patch was created to solve a specific problem: there is some bugginess in the behavior of the "Live Routings" feature of the Network MIDI device on OS X (and maybe in rtpMIDI on Windows as well). In my usage of Network MIDI, I've found that some MIDI data somehow doesn't make it through the Live Routings. It seems to get filtered. I don't know how or why, but it's definitely happening.
+There are many reasons why you might need this, but this patch was created to solve a specific problem: there is some bugginess in the behavior of the "Live Routings" feature of the Network MIDI device on OS X (and maybe in rtpMIDI on Windows as well). In my usage of Network MIDI, I've found that some MIDI data somehow doesn't make it through the Live Routings. It seems to get filtered. I don't know how or why, but it's definitely happening, and it makes some network MIDI apps (like <a href="https://coffeeshopped.com/mopho-touch">Mopho Touch</a>!) simply not work.
 
 ## Usage
 
