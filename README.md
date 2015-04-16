@@ -11,7 +11,7 @@ There are many reasons why you might need this, but this patch was created to so
 If, like me, you're using this patch as a replacement for using "Live Routings" in networked MIDI, then this is how you use it:
 
 1. Make sure "Live routings" menu in your network MIDI setup is set to blank! Leaving Live routings turned on, when used with this patch as well, will probably cause bad behavior.
-2. Open the patch better-live-routings.maxpat. You'll need Max to run it (which you can get for free from Cycling 74 here: )
+2. Open the patch better-live-routings.maxpat. You'll need Max to run it (which you can get for free from Cycling 74 here: <a href="https://cycling74.com/downloads/">https://cycling74.com/downloads/</a>)
 3. Select your ports in the dropdown menus of the patch. In most setups, you'll select your Network MIDI port in the first "From" dropdown, and your MIDI device output port in the first "To" dropdown. Then select them vice versa in the second set of dropdowns ("From" your MIDI device, and "To" your Network MIDI port)
 4. Now you should be in business. The two circles on the right side of the patch are indicators for when MIDI is being received from the chosen MIDI ports.
 5. When you close the patch, it will attempt to automatically save your settings to a file called config.json that is in the same folder as better-live-routings.maxpat. That'll save you time the next time around.
