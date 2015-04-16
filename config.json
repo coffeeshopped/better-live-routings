@@ -1,0 +1,20 @@
+{
+	"pattrstorage" : 	{
+		"name" : "config",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"inA" : [ "EDIROL FA-66 (3476) Plug 1" ],
+					"inB" : [ "Network Session 1" ],
+					"outA" : [ "Network Session 1" ],
+					"outB" : [ "EDIROL FA-66 (3476) Plug 1" ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
