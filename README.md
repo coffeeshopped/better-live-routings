@@ -18,8 +18,8 @@ If, like me, you're using this patch as a replacement for using "Live Routings" 
 
 Here's an example of how your Live Routings should look on OS X (the lower-right is the important part):
 
-![Live Routings example](https://coffeeshopped.com/sites/default/files/pages/Screen%20Shot%202015-04-16%20at%204.37.44%20PM.png)
+![Live Routings example](https://coffeeshopped.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcFFDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e1565b4903e273a4a1222c9f9d18267e84b9ce8a/Screen-20Shot-202015-05-15-20at-2012.38.58-20PM.png)
 
 Here's an example of a correct setup of the patch:
 
-![Better Live Routings example](https://coffeeshopped.com/sites/default/files/pages/Screen%20Shot%202015-04-16%20at%204.43.58%20PM.png)
+![Better Live Routings example](https://coffeeshopped.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcFVDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e36428d4f54c532640b353d666e1e6ace2a96159/Screen-20Shot-202015-05-15-20at-202.17.18-20PM.png)
